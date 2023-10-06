@@ -1,0 +1,12 @@
+D:\WORK\TestWork\GithubSearch\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\WORK\TestWork\GithubSearch\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\WORK\TestWork\GithubSearch\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\WORK\TestWork\GithubSearch\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\WORK\TestWork\GithubSearch\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\TestWork\GithubSearch\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\WORK\TestWork\GithubSearch\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\WORK\TestWork\GithubSearch\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\WORK\TestWork\GithubSearch\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\WORK\TestWork\GithubSearch\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\WORK\TestWork\GithubSearch\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\WORK\TestWork\GithubSearch\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

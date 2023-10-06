@@ -1,0 +1,15 @@
+D:\WORK\TestWork\GithubSearch\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+D:\WORK\TestWork\GithubSearch\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+D:\WORK\TestWork\GithubSearch\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+D:\WORK\TestWork\GithubSearch\BusinessLogic\bin\Debug\net5.0\DataAccess.dll
+D:\WORK\TestWork\GithubSearch\BusinessLogic\bin\Debug\net5.0\DataAccess.pdb
+D:\WORK\TestWork\GithubSearch\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\WORK\TestWork\GithubSearch\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\TestWork\GithubSearch\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\WORK\TestWork\GithubSearch\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+D:\WORK\TestWork\GithubSearch\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\WORK\TestWork\GithubSearch\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CopyComplete
+D:\WORK\TestWork\GithubSearch\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+D:\WORK\TestWork\GithubSearch\BusinessLogic\obj\Debug\net5.0\refint\BusinessLogic.dll
+D:\WORK\TestWork\GithubSearch\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb
+D:\WORK\TestWork\GithubSearch\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll

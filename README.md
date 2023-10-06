@@ -1,9 +1,11 @@
 # GithubSearch
 GithubSearch test application
 
-1) Open solution and run application via F5 button
+1) Open solution and build
 
-2) Once application will be started open new browser tab and paste following line:
+2) Run application via F5 button
+
+3) Once application will be started open new browser tab and paste following line:
    http://localhost:33363/Home/SearchLatestOpenedPullRequestsJson?repositoryOwner=pavelsavara&repositoryName=runtime&pullRequestLabel=&customSearchKeywords=
 
 Please pay your attention that some fields are empty. They empty in Github API response also

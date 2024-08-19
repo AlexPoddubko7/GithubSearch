@@ -1,12 +1,15 @@
 # GithubSearch
 GithubSearch test application
+![image](https://github.com/user-attachments/assets/286da5dd-ce1f-45e3-bb61-3a91fd0c1950)
+
+Please pay your attention that according to description from image above it should be asp.net mvc app but I decided to rewrite it to web api(it was latest changes)
 
 1) Open solution and build
 
 2) Run application via F5 button
 
 3) Once application will be started open new browser tab and paste following line:
-   http://localhost:33363/Home/SearchLatestOpenedPullRequestsJson?repositoryOwner=pavelsavara&repositoryName=runtime&pullRequestLabel=&customSearchKeywords=
+   http://localhost:63335/GithubSearch?repositoryOwner=pavelsavara&repositoryName=runtime&pullRequestLabel=&customSearchKeywords=
 
 Please pay your attention that some fields are empty. They empty in Github API response also
 
